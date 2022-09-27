@@ -46,5 +46,7 @@ class DemoCopyConstructor {
         Student student2 = new Student (student1);
         System.out.println(" The Student2 details:");
         student2.displayDetails();
+        System.out.println(" ====================");
+
     }
 }

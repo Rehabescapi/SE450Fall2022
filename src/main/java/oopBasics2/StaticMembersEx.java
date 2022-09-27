@@ -19,6 +19,7 @@ public class StaticMembersEx {
 
     public static void main(String[] args) {
         System.out.println("***Static members example: Exploring class variables and class methods.***\n");
+
         System.out.println("Length of the Rectangle is :" + StaticMembersEx.length + " unit");
         System.out.println("Breadth of the Rectangle is :" + StaticMembersEx.breadth + " unit");
         System.out.println("Area of Rectangle is " + StaticMembersEx.area() + " sq.unit");

@@ -26,6 +26,8 @@ public class GetterSetterExample {
 //    public void setPrivateInt(int privateInt) {
 //        this.privateInt = privateInt;
 //    }
+
+
 }
 
 class DemoGetterSetter {

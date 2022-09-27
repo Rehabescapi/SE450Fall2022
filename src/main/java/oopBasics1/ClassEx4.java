@@ -25,6 +25,7 @@ public class ClassEx4 {
         return total;
     }
 
+
     public static void main(String[] args) {
         System.out.println("***Example 4. Methods with variablelength argument ***\n");
         ClassEx4 ob = new ClassEx4();

@@ -27,6 +27,7 @@ public class InitializationBlocksExample {
         System.out.println("User-defined parameterless constructor is executed.Setting c=3.");
         c = 3;
     }
+
 }
 
 class DemoInitBlock {
