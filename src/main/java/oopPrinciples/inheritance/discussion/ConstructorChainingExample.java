@@ -23,8 +23,8 @@ class ChildClsChain extends ParentClsChain {
     int b;
     ChildClsChain() {
 //      both this() and super() cannot be used together
-//        super();
-        this(450);
+        super();
+//        this(450);
         System.out.println("Invoking parameterless constructor of Child.");
     }
     ChildClsChain(int b) {

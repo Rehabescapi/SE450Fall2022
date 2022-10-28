@@ -53,7 +53,7 @@ class DemoInterfaceInheritance {
         interBB.showInterfaceBBMethod();
 
         InterfaceCC interCC = mySampleClassOb;
-        interCC.showInterfaceCCMethod();
+        interCC.showInterfaceAAMethod();
 
         //Calling directly through mySampleClassOb.
         System.out.println("\n**Now invoking the methods directly through a MyClass object.**\n");
