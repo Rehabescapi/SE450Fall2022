@@ -16,5 +16,7 @@ public class AccountDriver {
         CreateBankAccount account1 = CreateBankAccount.getNewAccount();
         // create second account
         CreateBankAccount account2 = CreateBankAccount.getNewAccount();
+        System.out.println("\n\nBank Account Number Generation Application using Singleton Design Pattern");
+
     }
 }
