@@ -13,7 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
         
-        String emailText = "transcript";
+        String emailText = "job";
 
         UniversityEmailHandler academic = new AcademicEmailHandler();
         UniversityEmailHandler alumni = new AlumniEmailHandler();
